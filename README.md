@@ -1,1 +1,1 @@
-# THWiki_parser
+# TouhouDialogueGenerator
