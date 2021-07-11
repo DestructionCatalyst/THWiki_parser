@@ -1,1 +1,1 @@
-# TouhouDialogueGenerator
+# Touhou Dialogue Generator
