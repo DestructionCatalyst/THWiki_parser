@@ -1,0 +1,49 @@
+General Touhou stuff:
+('gensokyo', 283),
+('incident', 167),
+('maiden', 147),
+('cards', 104),
+('flowers', 97),
+('danmaku', 74),
+('spell', 35),
+('faith', 34),
+('barrier', 25)
+
+Locations:
+('moon', 379),
+('shrine', 359),
+('hell', 264), # probably was also used as a swearing in some cases
+('netherworld', 60),
+('makai', 49),
+('heaven', 41)
+
+Species:
+('god', 289),
+('spirits', 296),
+('fairies', 113),
+('tengu', 105),
+('oni', 86),
+('rabbit', 68),
+('kappa', 64),
+('phantoms', 52),
+('ghosts', 49),
+('hermit', 42),
+('tsukumogami', 42),
+('tanuki', 49),
+('magician', 41),
+('celestial', 28),
+('yama', 22),
+('shikigami', 22),
+('shinigami', 18)
+
+Swearings:
+('foolish', 32),
+('fool', 26),
+('fooled', 22),
+('stupid', 24)
+
+Seasons:
+('summer', 34),
+('winter', 34),
+('spring', 95),
+('autumn', <18)
